@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಪ್ರೈಡ್</string>
+    <string name="verify_my_toy">ನನ್ನ ಆಟಿಕೆ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="verify_my_toy_desc">ಕಾರಿಗರರ ಫೋಟೋ ಮತ್ತು ಕಾರ್ಯಾಗಾರ ನೋಡಲು 6 ಅಂಕಿಯ ಐಡಿ ನಮೂದಿಸಿ.</string>
+    <string name="how_its_made">ಇದನ್ನು ಹೇಗೆ ತಯಾರಿಸುತ್ತಾರೆ</string>
+    <string name="how_its_made_desc">ಚನ್ನಪಟ್ಟಣ ಆಟಿಕೆಗಳ ಹಾಲೆ ಮರ ಮತ್ತು ಲಾಕ್ ಪ್ರಕ್ರಿಯೆಯನ್ನು ತಿಳಿಯಿರಿ.</string>
+    <string name="meet_the_maker">ಕಾರಿಗರರನ್ನು ಭೇಟಿ ಮಾಡಿ</string>
+    <string name="meet_the_maker_desc">ಭೇಟಿ ನೀಡಬಹುದಾದ ಚನ್ನಪಟ್ಟಣ ಕಾರ್ಯಾಗಾರಗಳನ್ನು ಹುಡುಕಿ.</string>
+    <string name="toy_catalog">ಆಟಿಕೆ ಕ್ಯಾಟಲಾಗ್</string>
+    <string name="toy_catalog_desc">ರಾಕಿಂಗ್ ಹಾರ್ಸ್, ಪಜಲ್, ಗೊಂಬೆ, ಬುಗುರಿ ಮತ್ತು ಇನ್ನಷ್ಟು ನೋಡಿ.</string>
+    <string name="impact_goals">ಪರಿಣಾಮ ಗುರಿಗಳು</string>
+    <string name="protecting_gi_tags">ಜಿಐ ಟ್ಯಾಗ್ ರಕ್ಷಣೆ</string>
+    <string name="artisan_recognition">ಕಾರಿಗರರ ಗುರುತಿನ ಮಾನ್ಯತೆ</string>
+    <string name="sustainable_play">ಸ್ಥಿರ ಮತ್ತು ಸುರಕ್ಷಿತ ಆಟಿಕೆಗಳು</string>
+</resources>

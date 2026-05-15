@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Pride</string>
+    <string name="verify_my_toy">Verify My Toy</string>
+    <string name="verify_my_toy_desc">Enter the 6 digit ID to see the artisan photo and workshop.</string>
+    <string name="how_its_made">How It\'s Made</string>
+    <string name="how_its_made_desc">Learn the Hale Wood and Lac process behind Channapatna toys.</string>
+    <string name="meet_the_maker">Meet the Maker</string>
+    <string name="meet_the_maker_desc">Find Channapatna workshops you can visit.</string>
+    <string name="toy_catalog">Toy Catalog</string>
+    <string name="toy_catalog_desc">Browse rocking horses, puzzles, dolls, spinning tops and more.</string>
+    <string name="impact_goals">Impact Goals</string>
+    <string name="protecting_gi_tags">Protecting GI Tags</string>
+    <string name="artisan_recognition">Artisan Recognition</string>
+    <string name="sustainable_play">Sustainable Play</string>
+</resources>
